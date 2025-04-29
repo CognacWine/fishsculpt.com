@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Fish Sculpt
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://cognacwine.github.io"
+baseurl: "/fishsculpt.com"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://cognacwine.github.io/fishsculpt.com/gallery/"  
+  - JOURNAL: "https://cognacwine.github.io/fishsculpt.com/journal/"
+  - ABOUT: "https://cognacwine.github.io/fishsculpt.com/about/"
 
 # All translation keys
 translations:
