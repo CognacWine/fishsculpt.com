@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://fishsculpt.com/gallery/"  
-  - JOURNAL: "https://fishsculpt.com/journal/"
+  # - JOURNAL: "https://fishsculpt.com/journal/"
   - ABOUT: "https://fishsculpt.com/about/"
 
 # All translation keys
