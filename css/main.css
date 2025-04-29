@@ -21,7 +21,7 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #760824;
+  color: #0a043b;
   transition: color .4s;
   text-decorarion: none;
 }
@@ -120,7 +120,7 @@ hr.small {
     color: #0085a1;
   }
 .navbar-custom.is-fixed .nav li a:active{
-    color: #6ec54d;
+    color: #0085a1;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
