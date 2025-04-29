@@ -1,16 +1,15 @@
 # Site settings
-title: Fish Sculpt
+title: Fish&#8226;Sculpt
 email: ""
 description: "Fish Suclptures"
 url: ""
 baseurl: ""
 facebook_username: ""
-twitter_username: ""
 instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
