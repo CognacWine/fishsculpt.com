@@ -71,8 +71,8 @@ iframe#okplayer { min-width: 100%; min-height: 100%; }
 #gallerynav a { color: #F7F6F5; padding: .3em; font-size: 1.5em; font-weight: bold; }
 #gallerynav a svg { fill: #F7F6F5; vertical-align: bottom; }
 #gallerynav a.thumbs { padding: 0 1.5em 0 0; }
-#gallerynav a:hover, #gallerynav a.active { color: #EA8E00; }
-#gallerynav a:hover svg { fill: #EA8E00; }
+#gallerynav a:hover, #gallerynav a.active { color: #01163d; }
+#gallerynav a:hover svg { fill: #01163d; }
 #gallerynav a.pause { font-size: .7em; padding-left: .9em; position: relative; top: -3px; font-weight: normal; }
 #gallerythumbs { position: fixed; width: 100%; height: 120px; text-align: left; left: 0; bottom: -24px;/*hide scroll track*/ z-index: 888; white-space: nowrap; padding: 0 !important; overflow: hidden; overflow-x: scroll;  background: #222;
 -webkit-transform: translate3d(0,100%,0); transform: translate3d(0,100%,0); 
@@ -106,7 +106,7 @@ body.gallerythumbsrevealed .position-absolute { -webkit-transform: translate3d(0
 
 #gallerypuntiks { width: 18px; position: absolute; bottom: 0; z-index: 90; }
 #gallerypuntiks a { display: inline-block; width: 10px; height: 10px; border: 2px solid #999; border-radius: 5px; font-size: 0; margin: .5em; clear: both; background: #F7F6F5; padding: .5em;  -webkit-transition: all .4s ease; -moz-transition: all .4s ease; -ms-transition: all .4s ease; -o-transition: all .4s ease; transition: all .4s ease; }
-#gallerypuntiks a:hover { border-color: #EA8E00; }
+#gallerypuntiks a:hover { border-color: #01163d; }
 #gallerypuntiks a.activeSlide { border-color: #222; }
 
 .before-after { max-width: 100%; clear: both; float: left; margin: 0 2em 1em 0; }
